@@ -1,0 +1,867 @@
+Display Name
+Multi-Specialty Group
+Single Specialty Group
+Allergy & Immunology Physician
+Allergy Physician
+Clinical & Laboratory Immunology (Allergy & Immunology) Physician
+Anesthesiology Physician
+Addiction Medicine (Anesthesiology) Physician
+Critical Care Medicine (Anesthesiology) Physician
+Hospice and Palliative Medicine (Anesthesiology) Physician
+Pain Medicine (Anesthesiology) Physician
+Pediatric Anesthesiology Physician
+Clinical Pharmacology Physician
+Colon & Rectal Surgery Physician
+Dermatology Physician
+Clinical & Laboratory Dermatological Immunology Physician
+Dermatopathology Physician
+MOHS-Micrographic Surgery Physician
+Pediatric Dermatology Physician
+Procedural Dermatology Physician
+Electrodiagnostic Medicine Physician
+Emergency Medicine Physician
+Emergency Medical Services (Emergency Medicine) Physician
+Hospice and Palliative Medicine (Emergency Medicine) Physician
+Medical Toxicology (Emergency Medicine) Physician
+Pediatric Emergency Medicine (Emergency Medicine) Physician
+Sports Medicine (Emergency Medicine) Physician
+Undersea and Hyperbaric Medicine (Emergency Medicine) Physician
+Family Medicine Physician
+Addiction Medicine (Family Medicine) Physician
+Adolescent Medicine (Family Medicine) Physician
+Adult Medicine Physician
+Geriatric Medicine (Family Medicine) Physician
+Hospice and Palliative Medicine (Family Medicine) Physician
+Obesity Medicine (Family Medicine) Physician
+Sleep Medicine (Family Medicine) Physician
+Sports Medicine (Family Medicine) Physician
+General Practice Physician
+Hospitalist Physician
+Independent Medical Examiner Physician
+Internal Medicine Physician
+Addiction Medicine (Internal Medicine) Physician
+Adolescent Medicine (Internal Medicine) Physician
+Adult Congenital Heart Disease Physician
+Advanced Heart Failure and Transplant Cardiology Physician
+Allergy & Immunology (Internal Medicine) Physician
+Cardiovascular Disease Physician
+Clinical & Laboratory Immunology (Internal Medicine) Physician
+Clinical Cardiac Electrophysiology Physician
+Critical Care Medicine (Internal Medicine) Physician
+Endocrinology, Diabetes & Metabolism Physician
+Gastroenterology Physician
+Geriatric Medicine (Internal Medicine) Physician
+Hematology (Internal Medicine) Physician
+Hematology & Oncology Physician
+Hepatology Physician
+Hospice and Palliative Medicine (Internal Medicine) Physician
+Hypertension Specialist Physician
+Infectious Disease Physician
+Interventional Cardiology Physician
+Magnetic Resonance Imaging (MRI) Internal Medicine Physician
+Medical Oncology Physician
+Nephrology Physician
+Obesity Medicine (Internal Medicine) Physician
+Pulmonary Disease Physician
+Rheumatology Physician
+Sleep Medicine (Internal Medicine) Physician
+Sports Medicine (Internal Medicine) Physician
+Transplant Hepatology Physician
+Legal Medicine (M.D./D.O.) Physician
+Clinical Biochemical Genetics Physician
+Clinical Cytogenetics Physician
+Clinical Genetics (M.D.) Physician
+Clinical Molecular Genetics Physician
+Molecular Genetic Pathology (Medical Genetics) Physician
+Ph.D. Medical Genetics Physician
+Neurological Surgery Physician
+Neuromusculoskeletal Medicine & OMM Physician
+Sports Medicine (Neuromusculoskeletal Medicine) Physician
+Nuclear Medicine Physician
+In Vivo & In Vitro Nuclear Medicine Physician
+Nuclear Cardiology Physician
+Nuclear Imaging & Therapy Physician
+Obstetrics & Gynecology Physician
+Critical Care Medicine (Obstetrics & Gynecology) Physician
+Female Pelvic Medicine and Reconstructive Surgery (Obstetrics & Gynecology) Physician
+Gynecologic Oncology Physician
+Gynecology Physician
+Hospice and Palliative Medicine (Obstetrics & Gynecology) Physician
+Maternal & Fetal Medicine Physician
+Obesity Medicine (Obstetrics & Gynecology) Physician
+Obstetrics Physician
+Reproductive Endocrinology Physician
+Ophthalmology Physician
+Cornea and External Diseases Specialist Physician
+Glaucoma Specialist (Ophthalmology) Physician
+Neuro-ophthalmology Physician
+Ophthalmic Plastic and Reconstructive Surgery Physician
+Pediatric Ophthalmology and Strabismus Specialist Physician Physician
+Retina Specialist (Ophthalmology) Physician
+Uveitis and Ocular Inflammatory Disease (Ophthalmology) Physician
+Oral & Maxillofacial Surgery (D.M.D.)
+Orthopaedic Surgery Physician
+Adult Reconstructive Orthopaedic Surgery Physician
+Orthopaedic Foot and Ankle Surgery Physician
+Orthopaedic Hand Surgery Physician
+Orthopaedic Surgery of the Spine Physician
+Orthopaedic Trauma Physician
+Pediatric Orthopaedic Surgery Physician
+Sports Medicine (Orthopaedic Surgery) Physician
+Otolaryngology Physician
+Facial Plastic Surgery Physician
+Otolaryngic Allergy Physician
+Otolaryngology/Facial Plastic Surgery Physician
+Otology & Neurotology Physician
+Pediatric Otolaryngology Physician
+Plastic Surgery within the Head & Neck (Otolaryngology) Physician
+Sleep Medicine (Otolaryngology) Physician
+Interventional Pain Medicine Physician
+Pain Medicine Physician
+Anatomic Pathology Physician
+Anatomic Pathology & Clinical Pathology Physician
+Blood Banking & Transfusion Medicine Physician
+Chemical Pathology Physician
+Clinical Informatics (Pathology) Physician
+Clinical Pathology Physician
+Clinical Pathology/Laboratory Medicine Physician
+Cytopathology Physician
+Dermatopathology (Pathology) Physician
+Forensic Pathology Physician
+Hematology (Pathology) Physician
+Immunopathology Physician
+Medical Microbiology Physician
+Molecular Genetic Pathology (Pathology) Physician
+Neuropathology Physician
+Pediatric Pathology Physician
+Pediatrics Physician
+Pediatric Adolescent Medicine Physician
+Child Abuse Pediatrics Physician
+Pediatric Clinical & Laboratory Immunology Physician
+Developmental - Behavioral Pediatrics Physician
+Pediatric Hospice and Palliative Medicine Physician
+Pediatric Medical Toxicology Physician
+Neonatal-Perinatal Medicine Physician
+Pediatric Neurodevelopmental Disabilities Physician
+Pediatric Obesity Medicine Physician
+Pediatric Allergy/Immunology Physician
+Pediatric Cardiology Physician
+Pediatric Critical Care Medicine Physician
+Pediatric Emergency Medicine (Pediatrics) Physician
+Pediatric Endocrinology Physician
+Pediatric Gastroenterology Physician
+Pediatric Hematology & Oncology Physician
+Pediatric Infectious Diseases Physician
+Pediatric Nephrology Physician
+Pediatric Pulmonology Physician
+Pediatric Rheumatology Physician
+Pediatric Transplant Hepatology Physician
+Pediatric Sleep Medicine Physician
+Pediatric Sports Medicine Physician
+Phlebology Physician
+Physical Medicine & Rehabilitation Physician
+Brain Injury Medicine (Physical Medicine & Rehabilitation) Physician
+Hospice and Palliative Medicine (Physical Medicine & Rehabilitation) Physician
+Neuromuscular Medicine (Physical Medicine & Rehabilitation) Physician
+Pain Medicine (Physical Medicine & Rehabilitation) Physician
+Pediatric Rehabilitation Medicine Physician
+Spinal Cord Injury Medicine Physician
+Sports Medicine (Physical Medicine & Rehabilitation) Physician
+Plastic Surgery Physician
+Plastic Surgery Within the Head and Neck (Plastic Surgery) Physician
+Surgery of the Hand (Plastic Surgery) Physician
+Addiction Medicine (Preventive Medicine) Physician
+Aerospace Medicine Physician
+Clinical Informatics Physician
+Medical Toxicology (Preventive Medicine) Physician
+Obesity Medicine (Preventive Medicine) Physician
+Occupational Medicine Physician
+Preventive Medicine/Occupational Environmental Medicine Physician
+Public Health & General Preventive Medicine Physician
+Sports Medicine (Preventive Medicine) Physician
+Undersea and Hyperbaric Medicine (Preventive Medicine) Physician
+Addiction Medicine (Psychiatry & Neurology) Physician
+Addiction Psychiatry Physician
+Behavioral Neurology & Neuropsychiatry Physician
+Brain Injury Medicine (Psychiatry & Neurology) Physician
+Child & Adolescent Psychiatry Physician
+Clinical Neurophysiology Physician
+Diagnostic Neuroimaging (Psychiatry & Neurology) Physician
+Epilepsy Physician
+Forensic Psychiatry Physician
+Geriatric Psychiatry Physician
+Hospice and Palliative Medicine (Psychiatry & Neurology) Physician
+Neurocritical Care Physician
+Neurodevelopmental Disabilities Physician Physician
+Neurology Physician
+Neurology with Special Qualifications in Child Neurology Physician
+Neuromuscular Medicine (Psychiatry & Neurology) Physician
+Obesity Medicine (Psychiatry & Neurology) Physician
+Pain Medicine (Psychiatry & Neurology) Physician
+Psychiatry Physician
+Psychosomatic Medicine Physician
+Sleep Medicine (Psychiatry & Neurology) Physician
+Sports Medicine (Psychiatry & Neurology) Physician
+Vascular Neurology Physician
+Body Imaging Physician
+Diagnostic Neuroimaging (Radiology) Physician
+Diagnostic Radiology Physician
+Diagnostic Ultrasound Physician
+Hospice and Palliative Medicine (Radiology) Physician
+Neuroradiology Physician
+Nuclear Radiology Physician
+Pediatric Radiology Physician
+Radiation Oncology Physician
+Radiological Physics Physician
+Therapeutic Radiology Physician
+Vascular & Interventional Radiology Physician
+Surgery Physician
+Hospice and Palliative Medicine (Surgery) Physician
+Pediatric Surgery Physician
+Plastic and Reconstructive Surgery Physician
+Surgery of the Hand (Surgery) Physician
+Surgical Critical Care Physician
+Surgical Oncology Physician
+Trauma Surgery Physician
+Vascular Surgery Physician
+Thoracic Surgery (Cardiothoracic Vascular Surgery) Physician
+Transplant Surgery Physician
+Urology Physician
+Female Pelvic Medicine and Reconstructive Surgery (Urology) Physician
+Pediatric Urology Physician
+Assistant Behavior Analyst
+Behavior Technician
+Behavioral Analyst
+Clinical Neuropsychologist
+Deactivated - Clinical Neuropsychologist
+Counselor
+Addiction (Substance Use Disorder) Counselor
+Mental Health Counselor
+Pastoral Counselor
+Professional Counselor
+School Counselor
+Drama Therapist
+Marriage & Family Therapist
+Poetry Therapist
+Psychoanalyst
+Psychologist
+Addiction (Substance Use Disorder) Psychologist 
+Adult Development & Aging Psychologist
+Clinical Psychologist
+Clinical Child & Adolescent Psychologist
+Cognitive & Behavioral Psychologist
+Counseling Psychologist
+Deactivated - Psychologist
+Exercise & Sports Psychologist
+Family Psychologist
+Forensic Psychologist
+Group Psychotherapy Psychologist
+Health Psychologist
+Health Service Psychologist
+Deactivated - Psychologist Men & Masculinity
+Intellectual & Developmental Disabilities Psychologist
+Prescribing (Medical) Psychologist
+Psychoanalysis Psychologist
+Deactivated - Psychologist Psychotherapy
+Rehabilitation Psychologist
+School Psychologist
+Deactivated - Psychotherapy Women
+Social Worker
+Clinical Social Worker
+School Social Worker
+Chiropractor
+Independent Medical Examiner Chiropractor
+Internist Chiropractor
+Neurology Chiropractor
+Nutrition Chiropractor
+Occupational Health Chiropractor
+Orthopedic Chiropractor
+Pediatric Chiropractor
+Radiology Chiropractor
+Rehabilitation Chiropractor
+Sports Physician Chiropractor
+Thermography Chiropractor
+Advanced Practice Dental Therapist
+Dental Assistant
+Dental Hygienist
+Dental Laboratory Technician
+Dental Therapist
+Dentist
+Public Health Dentist
+Dentist Anesthesiologist
+Endodontist
+General Practice Dentistry
+Oral and Maxillofacial Pathology Dentist
+Oral and Maxillofacial Radiology Dentist
+Oral and Maxillofacial Surgery (Dentist)
+Orofacial Pain Dentist
+Orthodontics and Dentofacial Orthopedic Dentist
+Pediatric Dentist
+Periodontist
+Prosthodontist
+Denturist
+Oral Medicinist
+Dietary Manager
+Registered Dietetic Technician
+Registered Dietitian
+Gerontological Nutrition Registered Dietitian
+Metabolic Nutrition Registered Dietitian
+Obesity and Weight Management Nutrition Registered Dietitian
+Oncology Nutrition Registered Dietitian
+Pediatric Nutrition Registered Dietitian
+Pediatric Critical Care Nutrition Registered Dietitian
+Renal Nutrition Registered Dietitian
+Sports Dietetics Nutrition Registered Dietitian
+Nutritionist
+Nutrition Education Nutritionist
+Basic Emergency Medical Technician
+Intermediate Emergency Medical Technician
+Paramedic
+Personal Emergency Response Attendant
+Optometrist
+Corneal and Contact Management Optometrist
+Low Vision Rehabilitation Optometrist
+Occupational Vision Optometrist
+Pediatric Optometrist
+Sports Vision Optometrist
+Vision Therapy Optometrist
+Technician/Technologist
+Contact Lens Technician/Technologist
+Contact Lens Fitter
+Ocularist
+Ophthalmic Technician/Technologist
+Ophthalmic Assistant 
+Optician
+Optometric Assistant Technician
+Optometric Technician
+Orthoptist
+Licensed Practical Nurse
+Licensed Psychiatric Technician
+Licensed Vocational Nurse
+Registered Nurse
+Addiction (Substance Use Disorder) Registered Nurse
+Administrator Registered Nurse
+Ambulatory Care Registered Nurse
+Cardiac Rehabilitation Registered Nurse
+Case Management Registered Nurse
+College Health Registered Nurse
+Community Health Registered Nurse
+Continence Care Registered Nurse
+Continuing Education/Staff Development Registered Nurse
+Critical Care Medicine Registered Nurse
+Diabetes Educator Registered Nurse
+Peritoneal Dialysis Registered Nurse
+Emergency Registered Nurse
+Enterostomal Therapy Registered Nurse
+Flight Registered Nurse
+Gastroenterology Registered Nurse
+General Practice Registered Nurse
+Gerontology Registered Nurse
+Hemodialysis Registered Nurse
+Home Health Registered Nurse
+Hospice Registered Nurse
+Infection Control Registered Nurse
+Infusion Therapy Registered Nurse
+Lactation Consultant (Registered Nurse)
+Maternal Newborn Registered Nurse
+Medical-Surgical Registered Nurse
+Neonatal Intensive Care Registered Nurse
+Low-Risk Neonatal Registered Nurse
+Nephrology Registered Nurse
+Neuroscience Registered Nurse
+Nurse Massage Therapist (NMT)
+Nutrition Support Registered Nurse
+High-Risk Obstetric Registered Nurse
+Inpatient Obstetric Registered Nurse
+Occupational Health Registered Nurse
+Oncology Registered Nurse
+Ophthalmic Registered Nurse
+Orthopedic Registered Nurse
+Ostomy Care Registered Nurse
+Otorhinolaryngology & Head-Neck Registered Nurse
+Pain Management Registered Nurse
+Pediatric Oncology Registered Nurse
+Pediatric Registered Nurse
+Perinatal Registered Nurse
+Plastic Surgery Registered Nurse
+Psychiatric/Mental Health Registered Nurse
+Adult Psychiatric/Mental Health Registered Nurse
+Child & Adolescent Psychiatric/Mental Health Registered Nurse
+Registered Nurse First Assistant
+Rehabilitation Registered Nurse
+Reproductive Endocrinology/Infertility Registered Nurse
+School Registered Nurse
+Urology Registered Nurse
+Ambulatory Women's Health Care Registered Nurse
+Wound Care Registered Nurse
+Adult Companion
+Chore Provider
+Day Training/Habilitation Specialist
+Doula
+Home Health Aide
+Homemaker
+Nurse's Aide
+Nursing Home Administrator
+Religious Nonmedical Nursing Personnel
+Religious Nonmedical Practitioner
+Technician
+Attendant Care Provider
+Personal Care Attendant
+Acupuncturist
+Case Manager/Care Coordinator
+Clinical Ethicist
+Community Health Worker
+Contractor
+Home Modifications Contractor
+Vehicle Modifications Contractor
+Driver
+Funeral Director
+Genetic Counselor (M.S.)
+Health & Wellness Coach
+Health Educator
+Homeopath
+Interpreter
+Lactation Consultant (Non-RN)
+Lay Midwife
+Legal Medicine
+Mechanotherapist
+Midwife
+Military Health Care Provider
+Independent Duty Corpsman
+Independent Duty Medical Technicians
+Naprapath
+Naturopath
+Peer Specialist
+Ph.D. Medical Genetics
+Prevention Professional
+Reflexologist
+Sleep Specialist (PhD)
+Specialist
+Graphics Designer
+ Prosthetics Case Management
+Research Study Abstracter/Coder
+Research Study Specialist
+Veterinarian
+Medical Research Veterinarian
+Pharmacist
+Ambulatory Care Pharmacist
+Critical Care Pharmacist
+Deactivated - Pharmacist
+Geriatric Pharmacist
+Nuclear Pharmacist
+Nutrition Support Pharmacist
+Oncology Pharmacist
+Pediatric Pharmacist
+Pharmacist Clinician (PhC)/ Clinical Pharmacy Specialist
+Pharmacotherapy Pharmacist
+Psychiatric Pharmacist
+Pharmacy Technician
+Advanced Practice Midwife
+Anesthesiologist Assistant
+Clinical Nurse Specialist
+Acute Care Clinical Nurse Specialist
+Adult Health Clinical Nurse Specialist
+Chronic Care Clinical Nurse Specialist
+Community Health/Public Health Clinical Nurse Specialist
+Critical Care Medicine Clinical Nurse Specialist
+Emergency Clinical Nurse Specialist
+Ethics Clinical Nurse Specialist
+Family Health Clinical Nurse Specialist
+Gerontology Clinical Nurse Specialist
+Holistic Clinical Nurse Specialist
+Home Health Clinical Nurse Specialist
+Informatics Clinical Nurse Specialist
+Long-Term Care Clinical Nurse Specialist
+Medical-Surgical Clinical Nurse Specialist
+Neonatal Clinical Nurse Specialist
+Neuroscience Clinical Nurse Specialist
+Occupational Health Clinical Nurse Specialist
+Oncology Clinical Nurse Specialist
+Pediatric Oncology Clinical Nurse Specialist
+Pediatric Clinical Nurse Specialist
+Perinatal Clinical Nurse Specialist
+Perioperative Clinical Nurse Specialist
+Psychiatric/Mental Health Clinical Nurse Specialist
+Adult Psychiatric/Mental Health Clinical Nurse Specialist
+Child & Adolescent Psychiatric/Mental Health Clinical Nurse Specialist
+Child & Family Psychiatric/Mental Health Clinical Nurse Specialist
+Chronically Ill Psychiatric/Mental Health Clinical Nurse Specialist
+Community Psychiatric/Mental Health Clinical Nurse Specialist
+Geropsychiatric Psychiatric/Mental Health Clinical Nurse Specialist
+Rehabilitation Clinical Nurse Specialist
+School Clinical Nurse Specialist
+Transplantation Clinical Nurse Specialist
+Women's Health Clinical Nurse Specialist
+Certified Registered Nurse Anesthetist
+Nurse Practitioner
+Acute Care Nurse Practitioner
+Adult Health Nurse Practitioner
+Community Health Nurse Practitioner
+Critical Care Medicine Nurse Practitioner
+Family Nurse Practitioner
+Gerontology Nurse Practitioner
+Neonatal Nurse Practitioner
+Critical Care Neonatal Nurse Practitioner
+Obstetrics & Gynecology Nurse Practitioner
+Occupational Health Nurse Practitioner
+Pediatric Nurse Practitioner
+Critical Care Pediatric Nurse Practitioner
+Perinatal Nurse Practitioner
+Primary Care Nurse Practitioner
+Psychiatric/Mental Health Nurse Practitioner
+School Nurse Practitioner
+Women's Health Nurse Practitioner
+Physician Assistant
+Medical Physician Assistant
+Surgical Physician Assistant
+Podiatric Assistant
+Podiatrist
+Foot & Ankle Surgery Podiatrist
+Foot Surgery Podiatrist
+Deactivated - Podiatrist
+Primary Podiatric Medicine Podiatrist
+Public Medicine Podiatrist
+Radiology Podiatrist
+Sports Medicine Podiatrist
+Anaplastologist
+Art Therapist
+Clinical Exercise Physiologist
+Dance Therapist
+Developmental Therapist
+Kinesiotherapist
+Massage Therapist
+Mastectomy Fitter
+Music Therapist
+Occupational Therapist
+Driving and Community Mobility Occupational Therapist
+Environmental Modification Occupational Therapist
+Ergonomics Occupational Therapist
+Feeding, Eating & Swallowing Occupational Therapist
+Gerontology Occupational Therapist
+Hand Occupational Therapist
+Human Factors Occupational Therapist
+Low Vision Occupational Therapist
+Mental Health Occupational Therapist
+Neurorehabilitation Occupational Therapist
+Pediatric Occupational Therapist
+Physical Rehabilitation Occupational Therapist
+Occupational Therapy Assistant
+Driving and Community Mobility Occupational Therapy Assistant
+Environmental Modification Occupational Therapy Assistant
+Feeding, Eating & Swallowing Occupational Therapy Assistant
+Low Vision Occupational Therapy Assistant
+Orthotic Fitter
+Orthotist
+Pedorthist
+Physical Therapist
+Cardiopulmonary Physical Therapist
+Clinical Electrophysiology Physical Therapist
+Ergonomics Physical Therapist
+Geriatric Physical Therapist
+Hand Physical Therapist
+Human Factors Physical Therapist
+Neurology Physical Therapist
+Orthopedic Physical Therapist
+Pediatric Physical Therapist
+Sports Physical Therapist
+Physical Therapy Assistant
+Prosthetist
+Pulmonary Function Technologist
+Recreation Therapist
+Recreational Therapist Assistant
+Rehabilitation Counselor
+Assistive Technology Practitioner Rehabilitation Counselor
+Assistive Technology Supplier Rehabilitation Counselor
+Orientation and Mobility Training Rehabilitation Counselor
+Rehabilitation Practitioner
+Certified Respiratory Therapist
+Critical Care Certified Respiratory Therapist
+Educational Certified Respiratory Therapist
+Emergency Care Certified Respiratory Therapist
+General Care Certified Respiratory Therapist
+Geriatric Care Certified Respiratory Therapist
+Home Health Certified Respiratory Therapist
+Neonatal/Pediatric Certified Respiratory Therapist
+Palliative/Hospice Certified Respiratory Therapist
+Patient Transport Certified Respiratory Therapist
+Pulmonary Diagnostics Certified Respiratory Therapist
+Pulmonary Function Technologist Certified Respiratory Therapist
+Pulmonary Rehabilitation Certified Respiratory Therapist
+SNF/Subacute Care Certified Respiratory Therapist
+Registered Respiratory Therapist
+Critical Care Registered Respiratory Therapist
+Educational Registered Respiratory Therapist
+Emergency Care Registered Respiratory Therapist
+General Care Registered Respiratory Therapist
+Geriatric Care Registered Respiratory Therapist
+Home Health Registered Respiratory Therapist
+Neonatal/Pediatric Registered Respiratory Therapist
+Palliative/Hospice Registered Respiratory Therapist
+Patient Transport Registered Respiratory Therapist
+Pulmonary Diagnostics Registered Respiratory Therapist
+Pulmonary Function Technologist Registered Respiratory Therapist
+Pulmonary Rehabilitation Registered Respiratory Therapist
+SNF/Subacute Care Registered Respiratory Therapist
+Respiratory/Developmental/Rehabilitative Specialist/Technologist
+Athletic Trainer
+Blind Rehabilitation Specialist/Technologist
+Audiologist
+Assistive Technology Practitioner Audiologist
+Assistive Technology Supplier Audiologist
+Audiologist-Hearing Aid Fitter
+Hearing Instrument Specialist
+Speech/Language/Hearing Specialist/Technologist
+Audiology Assistant
+Speech-Language Assistant
+Speech-Language Pathologist
+Student in an Organized Health Care Education/Training Program
+Perfusionist
+Radiologic Technologist
+Bone Densitometry Radiologic Technologist
+Cardiac-Interventional Technology Radiologic Technologist
+Cardiovascular-Interventional Technology Radiologic Technologist
+Computed Tomography Radiologic Technologist
+Magnetic Resonance Imaging Radiologic Technologist
+Mammography Radiologic Technologist
+Nuclear Medicine Technology Radiologic Technologist
+Quality Management Radiologic Technologist
+Radiation Therapy Radiologic Technologist
+Radiography Radiologic Technologist
+Sonography Radiologic Technologist
+Vascular Sonography Radiologic Technologist
+Vascular-Interventional Technology Radiologic Technologist
+Radiology Practitioner Assistant
+Cardiovascular Specialist/Technologist
+Cardiovascular Invasive Specialist/Technologist
+Sonography Specialist/Technologist
+Vascular Specialist/Technologist
+Health Information Specialist/Technologist
+Hospital Based Coding Specialist
+Physician Office Based Coding Specialist
+ Registered Record Administrator
+Other Specialist/Technologist
+Medical Art  Specialist/Technologist
+Biochemist
+Biomedical Engineer
+Biomedical Photographer
+Biostatiscian
+EEG Specialist/Technologist
+Electroneurodiagnostic Specialist/Technologist
+Medical Geneticist (PhD) Specialist/Technologist
+Graphics Methods Specialist/Technologist
+Medical Illustrator
+Nephrology Specialist/Technologist
+Orthopedic Assistant
+Surgical Assistant
+Surgical Technologist
+Pathology Specialist/Technologist
+Blood Banking Specialist/Technologist
+Chemistry Pathology Specialist/Technologist
+Cytotechnology Specialist/Technologist
+Hemapheresis Practitioner
+Hematology Specialist/Technologist
+Histology Specialist/Technologist
+Immunology Pathology Specialist/Technologist
+Laboratory Management Specialist/Technologist
+Diplomate Laboratory Management Specialist/Technologist
+Medical Technologist
+Microbiology Specialist/Technologist
+Cardiology Technician
+Health Information Technician
+Assistant Health Information Record Technician
+Other Technician
+Biomedical Engineering Technician
+Darkroom Technician
+EEG Technician
+Renal Dialysis Technician
+Veterinary Technician
+Pathology Technician
+Clinical Laboratory Director (Non-physician)
+Histology Technician
+Medical Laboratory Technician
+Phlebotomy Technician
+Case Management Agency
+Community/Behavioral Health Agency
+Developmentally Disabled Services Day Training Agency
+Early Intervention Provider Agency
+Foster Care Agency
+Home Health Agency
+Home Infusion Agency
+Community Based Hospice Care Agency
+In Home Supportive Care Agency
+Local Education Agency (LEA)
+Nursing Care Agency
+PACE Provider Organization
+Public Health or Welfare Agency
+Supports Brokerage Agency
+Voluntary or Charitable Agency
+Clinic/Center
+Adolescent and Children Mental Health Clinic/Center
+Adult Day Care Clinic/Center
+Adult Mental Health Clinic/Center
+Ambulatory Family Planning Facility
+Ambulatory Fertility Facility
+Ambulatory Surgical Clinic/Center
+Amputee Clinic/Center
+Augmentative Communication Clinic/Center
+Birthing Clinic/Center
+Community Health Clinic/Center
+Corporate Health Clinic/Center
+Critical Access Hospital Clinic/Center
+Dental Clinic/Center
+Developmental Disabilities Clinic/Center
+Emergency Care Clinic/Center
+End-Stage Renal Disease (ESRD) Treatment Clinic/Center
+Endoscopy Clinic/Center
+Non-Surgical Family Planning Clinic/Center
+Federally Qualified Health Center (FQHC)
+Genetics Clinic/Center
+Health Service Clinic/Center
+Hearing and Speech Clinic/Center
+Infusion Therapy Clinic/Center
+Lithotripsy Clinic/Center
+Magnetic Resonance Imaging (MRI) Clinic/Center
+Medical Specialty Clinic/Center
+Medically Fragile Infants and Children Day Care
+Mental Health Clinic/Center (Including Community Mental Health Center)
+Methadone Clinic
+Migrant Health Clinic/Center
+Military Ambulatory Procedure Visits Operational (Transportable) Clinic/Center
+Military and U.S. Coast Guard Ambulatory Procedure Clinic/Center
+Military Outpatient Operational (Transportable) Component Clinic/Center
+Military/U.S. Coast Guard Outpatient Clinic/Center
+Multi-Specialty Clinic/Center
+Occupational Medicine Clinic/Center
+Oncology Clinic/Center
+Radiation Oncology Clinic/Center
+Ophthalmologic Surgery Clinic/Center
+Oral and Maxillofacial Surgery Clinic/Center
+Pain Clinic/Center
+Physical Therapy Clinic/Center
+Podiatric Clinic/Center
+Primary Care Clinic/Center
+Prison Health Clinic/Center
+Federal Public Health Clinic/Center
+State or Local Public Health Clinic/Center
+Radiology Clinic/Center
+Mammography Clinic/Center
+Mobile Radiology Clinic/Center
+Mobile Mammography Clinic/Center
+Recovery Care Clinic/Center
+Rehabilitation Clinic/Center
+Cardiac Rehabilitation Clinic/Center
+Comprehensive Outpatient Rehabilitation Facility (CORF)
+Substance Use Disorder Rehabilitation Clinic/Center
+Research Clinic/Center
+Rural Health Clinic/Center
+Sleep Disorder Diagnostic Clinic/Center
+Student Health Clinic/Center
+Urgent Care Clinic/Center
+VA Clinic/Center
+Epilepsy Hospital Unit
+Medicare Defined Swing Bed Hospital Unit
+Psychiatric Hospital Unit
+Rehabilitation Hospital Unit
+Substance Use Disorder Rehabilitation Hospital Unit
+Deactivated - Christian Science Sanitorium
+Chronic Disease Hospital
+Children' s Chronic Disease Hospital
+General Acute Care Hospital
+Children's Hospital
+Critical Access Hospital
+Rural Acute Care Hospital
+Women's Hospital
+Long Term Care Hospital
+Military Hospital
+Deactivated - Military Hospital
+Military General Acute Care Hospital
+Operational (Transportable) Military General Acute Care Hospital
+Psychiatric Hospital
+Rehabilitation Hospital
+Children's Rehabilitation Hospital
+Religious Nonmedical Health Care Institution
+Special Hospital
+Clinical Medical Laboratory
+Dental Laboratory
+Military Clinical Medical Laboratory
+Physiological Laboratory
+Exclusive Provider Organization
+Health Maintenance Organization
+Point of Service
+Preferred Provider Organization
+Alzheimer Center (Dementia Center)
+Assisted Living Facility
+Assisted Living Facility (Behavioral Disturbances)
+Assisted Living Facility (Mental Illness)
+Deactivated - Christian Science Facility
+Custodial Care Facility
+Adult Care Home Facility
+Inpatient Hospice
+Intellectual Disabilities Intermediate Care Facility
+Mental Illness Intermediate Care Facility
+Nursing Facility/Intermediate Care Facility
+Skilled Nursing Facility
+Pediatric Skilled Nursing Facility
+Lodging Provider
+Meals Provider
+Mental Illness Community Based Residential Treatment Facility
+Intellectual and/or Developmental Disabilities Community Based Residential Treatment Facility
+Psychiatric Residential Treatment Facility
+Emotionally Disturbed Childrens' Residential Treatment Facility
+Intellectual and/or Developmental Disabilities Residential Treatment Facility
+Physical Disabilities Residential Treatment Facility
+Substance Abuse Rehabilitation Facility
+Children's Substance Abuse Rehabilitation Facility
+Respite Care
+Respite Care Camp
+Child Mental Illness Respite Care
+Child Intellectual and/or Developmental Disabilities Respite Care
+Child Physical Disabilities Respite Care
+Blood Bank
+Department of Veterans Affairs (VA) Pharmacy
+Durable Medical Equipment & Medical Supplies
+Customized Equipment (DME)
+Dialysis Equipment & Supplies (DME)
+Nursing Facility Supplies (DME)
+Oxygen Equipment & Supplies (DME)
+Parenteral & Enteral Nutrition Supplies (DME)
+Emergency Response System Companies
+Eye Bank
+Eyewear Supplier
+Hearing  Aid Equipment
+Home Delivered Meals
+Indian Health Service/Tribal/Urban Indian Health (I/T/U) Pharmacy
+Medical Foods Supplier
+Military/U.S. Coast Guard Pharmacy
+Non-Pharmacy Dispensing Site
+Organ Procurement Organization
+Pharmacy
+Clinic Pharmacy
+Community/Retail Pharmacy
+Compounding Pharmacy
+Home Infusion Therapy Pharmacy
+Institutional Pharmacy
+Long Term Care Pharmacy
+Mail Order Pharmacy
+Managed Care Organization Pharmacy
+Nuclear Pharmacy
+Specialty Pharmacy
+Portable X-ray and/or Other Portable Diagnostic Imaging Supplier
+Prosthetic/Orthotic Supplier
+Air Carrier
+Ambulance
+Air Ambulance
+Land Ambulance
+Water Ambulance
+Bus
+Military/U.S. Coast Guard Transport, 
+Military or U.S. Coast Guard Air Transport Ambulance
+Military or U.S. Coast Guard Ground Transport Ambulance
+Military or U.S. Coast Guard Water Transport Ambulance
+Non-emergency Medical Transport (VAN)
+Private Vehicle
+Secured Medical Transport (VAN)
+Taxi
+Train
+Transportation Broker
+Transportation Network Company

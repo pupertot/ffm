@@ -4,7 +4,7 @@ from flask_sqlalchemy import SQLAlchemy
 #Instantiating sqlalchemy object
 db = SQLAlchemy()
 #Creating database class
-class Movies(db.Model):   
+class Movie(db.Model):   
  
     #Creating field/columns of the database as class variables
     id = db.Column(db.Integer, primary_key=True)    
